@@ -1,3 +1,4 @@
 "Fichero untracked" 
 cambio 
 "vuevlo a cambiar" 
+Introduzco cambios 
